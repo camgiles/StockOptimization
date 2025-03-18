@@ -26,5 +26,8 @@ Run the Project:
 Clone this repository and run the mpt.py script:
 python mpt.py
 
+Edit to Fit Your Portfolio:
+You may change the list of stocks on line 8 to fit your portfolio. Simply edit the list and fill in the names of your stocks.
+
 View Results:
 The script will display the optimized portfolio weights and visualize the efficient frontier.
