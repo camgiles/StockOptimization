@@ -22,8 +22,7 @@ Install Required Libraries:
 Ensure you have Python installed along with the necessary libraries. You can install them using pip:
 pip install yfinance scipy numpy pandas matplotlib
 
-Run the Project
-
+Run the Project:
 Clone this repository and run the mpt.py script:
 python mpt.py
 
